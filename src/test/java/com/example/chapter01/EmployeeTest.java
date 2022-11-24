@@ -1,3 +1,5 @@
+package com.example.chapter01;
+
 import com.example.chapter01.challenge.Employee;
 import com.example.chapter01.challenge.EmployeeUtils;
 import org.junit.jupiter.api.Test;
